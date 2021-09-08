@@ -2,4 +2,4 @@
 
 Primeiro repositório do curso de Git e GitHub - Canal Curso em Vídeo
 
-Repositório criando durante aula.
+Repositório criado durante aula.
